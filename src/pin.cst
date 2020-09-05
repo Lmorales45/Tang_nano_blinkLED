@@ -1,0 +1,2 @@
+IO_LOC "i_clock" 35;
+IO_LOC "o_led_drive" 16;

@@ -1,0 +1,25 @@
+
+Starting:    D:\Program_files\Tang_nano\Gowin\Gowin_V1.9.6.02Beta\SynplifyPro\bin64\mbin\synbatch.exe
+Install:     D:\Program_files\Tang_nano\Gowin\Gowin_V1.9.6.02Beta\SynplifyPro
+Hostname:    LAPTOP-3TCTPBLT
+Date:        Sat Aug 29 15:32:04 2020
+Version:     Q-2020.03G-Beta1
+
+Arguments:   -product synplify_pro -batch -licensetype synplifypro_gowin D:/Elektronika/FPGA/projekty/Tang_nano/blink_led/impl/synthesize/blink_led.prj
+ProductType: synplify_pro
+
+Cannot find license file.
+ The license files (or license server system network addresses) attempted are 
+listed below.  Use LM_LICENSE_FILE to use a different license file,
+ or contact your software provider for a license file.
+Feature:       synplifypro_gowin
+License path:  D:\Program_files\Tang_nano\Gowin\Gowin_V1.9.6.02Beta\SynplifyPro\license.txt;
+FlexNet Licensing error:-1,234
+
+
+Host ID:  "982cbc9168e8 9a2cbc9168e7 982cbc9168e7"
+Please contact support at https://solvnetplus.synopsys.com/ManageCase?ccf=1
+
+
+Running in Vendor Mode
+
